@@ -18,7 +18,7 @@ This repository preserves the attribution and licensing terms applicable to any 
 
 This project is distributed under the MIT License.
 
-Copyright (c) 2021 Pie1993
+Copyright (c) 2021 Pietro Napoli
 
 See the `LICENSE` file for the full license text.
 
